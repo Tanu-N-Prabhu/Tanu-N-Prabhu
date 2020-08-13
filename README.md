@@ -40,10 +40,12 @@ Here are some cool stuff about me:
 - [Python Operators from Scratch!!! — A Beginner’s Guide](https://towardsdatascience.com/python-operators-from-scratch-a-beginners-guide-8471306f4278?source=rss-7edbfdf1201d------2)
 - [Splitting the dataset into three sets](https://medium.com/analytics-vidhya/splitting-the-dataset-into-three-sets-78f419f0d608?source=rss-7edbfdf1201d------2)
 <!-- BLOG-POST-LIST:END -->
+---
 
 
-
-
+### 😂 Here is a random joke to make you happy!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+---
 
 [website]: https://tanu-n-prabhu.github.io/myWebsite.io/
 [project]: https://tanu-n-prabhu.github.io/snapshot_wascana/index.html
