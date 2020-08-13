@@ -25,6 +25,13 @@ Here are some cool stuff about me:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+---
+![Tanu Nanda Prabhu's github stats](https://github-readme-stats.vercel.app/api?username=Tanu-N-Prabhu&show_icons=true)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu)
+---
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Rendering Images inside a Pandas DataFrame](https://towardsdatascience.com/rendering-images-inside-a-pandas-dataframe-3631a4883f60?source=rss-7edbfdf1201d------2)
