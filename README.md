@@ -9,14 +9,15 @@
 
 <p align="right"><img src=https://komarev.com/ghpvc/?username=Tanu-N-Prabhu /> </p>
 
-### Hi there, I'm Tanu Nanda Prabhu - aka [TNP][website] 👋
+### Hi there, I'm Tanu Nanda Prabhu - aka [TNP][website] 👋  <img align="right" src="Img/Snapchat.jpg" width="100" height="100">
 
 
 
 Here are some cool stuff about me:
-## I'm a Student, Developer, and Author!
+## I'm a Student, Developer, and Author!    
 
-- 🔭 I’m currently working on a [Through the lens][project]! -  Developing a website from scratch
+
+- 🔭 I’m currently working on a [Through the lens][project]! -  Developing a website from scratch  
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
