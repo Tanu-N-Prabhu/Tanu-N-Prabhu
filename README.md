@@ -48,5 +48,11 @@ Here are some cool stuff about me:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ---
 
+<p align="center">
+
+<img src = "Img/Snapchat1.jpg">
+
+</p>
+
 [website]: https://tanu-n-prabhu.github.io/myWebsite.io/
 [project]: https://tanu-n-prabhu.github.io/snapshot_wascana/index.html
