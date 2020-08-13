@@ -31,10 +31,6 @@ Here are some cool stuff about me:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu)
 
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 
 
 [website]: https://tanu-n-prabhu.github.io/myWebsite.io/
