@@ -50,7 +50,7 @@ Here are some cool stuff about me:
 
 <p align="center">
 
-<img src = "Img/Snapchat1.jpg">
+<img src = "Img/snap.jpg">
 
 </p>
 
