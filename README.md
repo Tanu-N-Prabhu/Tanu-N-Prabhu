@@ -26,10 +26,9 @@ Here are some cool stuff about me:
 - ⚡ Fun fact: ...
 
 ### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
+<!-- <!-- BLOG-POST-LIST::START -->
 
-<!-- BLOG-POST-LIST:END -->
-
+<!-- <!-- BLOG-POST-LIST::END -->
 ---
 [website]: https://tanu-n-prabhu.github.io/myWebsite.io/
 [project]: https://tanu-n-prabhu.github.io/snapshot_wascana/index.html
