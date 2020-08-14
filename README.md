@@ -9,7 +9,7 @@
 
 <p align="right"><img src=https://komarev.com/ghpvc/?username=Tanu-N-Prabhu /> </p>
 
-### Hi there, I'm Tanu Nanda Prabhu - aka [TNP][website] 👋  <img align="right" src="Img/Snapchat.jpg" width="125" height="125">
+### Hi there, I'm Tanu Nanda Prabhu - aka [TNP][website] 👋  <img align="right" src="Snapchat.jpg" width="125" height="125">
 <p><em>Pursuing Master's in Computer Science at <a href="https://www.uregina.ca/">University of Regina</a></br>Author at <a href="https://medium.com/">TDS </a>
 </em></p>
 
@@ -54,7 +54,7 @@ Here are some cool stuff about me:
 
 <p align="center">
 
-<img src = "Img/snap.jpg">
+<img src = "snap.jpg">
 
 </p>
 
