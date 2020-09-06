@@ -10,7 +10,7 @@
 <p align="right"><img src=https://komarev.com/ghpvc/?username=Tanu-N-Prabhu /> </p>
 
 ### Hi there, I'm Tanu Nanda Prabhu - aka [TNP][website] 👋  <img align="right" src="https://github.com/Tanu-N-Prabhu/Tanu-N-Prabhu/blob/master/Snapchat.jpg" width="125" height="125">
-<p><em>Pursuing Master's in Computer Science at <a href="https://www.uregina.ca/">University of Regina</a></br>Author at <a href="https://medium.com/">TDS </a>
+<p><em>Pursuing Master's in Computer Science at <a href="https://www.uregina.ca/">University of Regina</a>
 </em></p>
 
 
