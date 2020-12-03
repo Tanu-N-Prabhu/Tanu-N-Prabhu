@@ -14,7 +14,7 @@
 </em></p>
 
 
-Here are some cool stuff about me:
+Cool stuff about me:
 ## I'm a Student, Developer, and Author!    
 
 
