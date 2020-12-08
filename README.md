@@ -32,11 +32,11 @@ Cool stuff about me:
 ---
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to handle JSON in Python](https://towardsdatascience.com/how-to-handle-json-in-python-d877125df39b?source=rss-7edbfdf1201d------2)
 - [Using the Pandas DataFrame in Day-To-Day Life](https://towardsdatascience.com/using-the-pandas-dataframe-in-day-to-day-life-91859ee12cca?source=rss-7edbfdf1201d------2)
 - [Global, Local and Nonlocal variables in Python](https://towardsdatascience.com/global-local-and-nonlocal-variables-in-python-6b11c20d73b0?source=rss-7edbfdf1201d------2)
 - [Rendering Images inside a Pandas DataFrame](https://towardsdatascience.com/rendering-images-inside-a-pandas-dataframe-3631a4883f60?source=rss-7edbfdf1201d------2)
 - [Reading An Image In Python (Without Using Special Libraries)](https://towardsdatascience.com/reading-an-image-in-python-without-using-special-libraries-534b57de7dd4?source=rss-7edbfdf1201d------2)
-- [Mastering the Bar Plot in Python](https://towardsdatascience.com/mastering-the-bar-plot-in-python-4c987b459053?source=rss-7edbfdf1201d------2)
 <!-- BLOG-POST-LIST:END -->
 ---
 
