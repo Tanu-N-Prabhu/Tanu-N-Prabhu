@@ -8,18 +8,18 @@
 <p align="right"><img src=https://komarev.com/ghpvc/?username=Tanu-N-Prabhu /> </p>
 
 ## Hi there, I'm Tanu Nanda Prabhu - aka [TNP][website] 👋  <img align="right" src="https://github.com/Tanu-N-Prabhu/Tanu-N-Prabhu/blob/master/Snapchat.jpg" width="125" height="125">
-<p><em>Master of Science in Computer Science at the <a href="https://www.uregina.ca/">University of Regina</a>
+
+### Three most important points of my life
+* Master of Science in Computer Science at the <a href="https://www.uregina.ca/">University of Regina</a>
  
-Writer at <a href = "https://medium.com/@tanunprabhu95">Medium</a>
+* Writer at <a href = "https://medium.com/@tanunprabhu95">Medium</a>
 
-Freelance Web Developer <a href = "https://tanu-n-prabhu.github.io/myWebsite.io/">`TNP's <Hub>`</a>
-</em></p>
-
-
-Cool stuff about me:
-## I'm a Student, Developer, and Author!    
+* Freelance Web Developer <a href = "https://tanu-n-prabhu.github.io/myWebsite.io/">`TNP's <Hub>`</a>
+ 
+ <b>In short I'm a Student, Developer, and Author!    </b>
 
 
+## Cool stuff about me:
 - 🔭 I’m currently working on a [Through the lens][project]! -  Developing a website from scratch  
 - 🌱 I’m currently learning everything that makes sense <img src = "https://github.com/Tanu-N-Prabhu/Tanu-N-Prabhu/blob/master/Img/tenor.gif" width="15" height="15">
 - 📫 Reach me at: <a href = "tanunprabhu95@gmail.com">tanunprabhu95@gmail.com</a>
