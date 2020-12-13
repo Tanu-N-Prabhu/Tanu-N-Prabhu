@@ -91,7 +91,7 @@ Number | Name |  Date | Issued By |
 21 | [Calligraphy](https://github.com/Tanu-N-Prabhu/Certificates/blob/main/Certificates%20PDF/Calligraphy-May%202012.pdf)| 24 May, 2012 | [Whiz Kidz](http://whizkidz.info/)|
 22 | [National SIP Prodigy - Level 5](https://github.com/Tanu-N-Prabhu/Certificates/blob/main/Certificates%20PDF/SIP-Nov%202008.pdf)| 15 November, 2008 | [SIP Academy](https://www.sipacademyindia.com/)|
 
-> I hereby declare that all the below certificates belong to me and are not fake by any chance. - Tanu Nanda Prabhu
+> I hereby declare that all the above certificates belong to me and are not fake by any chance. - Tanu Nanda Prabhu
 
 ---
 
