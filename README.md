@@ -16,9 +16,9 @@
 
 * Freelance Web Developer <a href = "https://tanu-n-prabhu.github.io/myWebsite.io/">`TNP's <Hub>`</a>
  
- <b>In short I'm a Student, Developer, and Author!    </b>
+><b>In short, I'm a Student, Developer, and Author!    </b>
 
-
+---
 ## Cool stuff about me:
 - 🔭 I’m currently working on a [Through the lens][project]! -  Developing a website from scratch  
 - 🌱 I’m currently learning everything that makes sense <img src = "https://github.com/Tanu-N-Prabhu/Tanu-N-Prabhu/blob/master/Img/tenor.gif" width="15" height="15">
