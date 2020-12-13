@@ -5,8 +5,6 @@
 
 </p>
 
-
-
 <p align="right"><img src=https://komarev.com/ghpvc/?username=Tanu-N-Prabhu /> </p>
 
 ## Hi there, I'm Tanu Nanda Prabhu - aka [TNP][website] 👋  <img align="right" src="https://github.com/Tanu-N-Prabhu/Tanu-N-Prabhu/blob/master/Snapchat.jpg" width="125" height="125">
@@ -30,6 +28,33 @@ Cool stuff about me:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu)
 ---
+
+
+## I am a [Medium](https://medium.com/@tanunprabhu95) Writer 
+
+I have been a writer on Medium for over 2 years now. I started my journey on June 17, 2019 by writing my first article titled [Mastering the features of Google Colaboratory !!!](https://towardsdatascience.com/mastering-the-features-of-google-colaboratory-92850e75701), from then till today I have written 50 articles on various intrests such as Python, Data Science, Web Design, and Android. This includes tutorials, DIY's projects, and programming from scratch, and building apps. I write for 6 publications listed below.
+
+### Publications
+ 
+1. [Towards Data Science](https://towardsdatascience.com/) - A Medium publication sharing concepts, ideas, and codes. 
+2. [Analytics Vidhya](https://medium.com/analytics-vidhya) - Analytics Vidhya is a community of Analytics and Data Science professionals. We are building the next-gen data science ecosystem.
+3. [Kt.Academy](https://blog.kotlin-academy.com/) - Blog with mission to simplify Kotlin learning
+4. [The Startup](https://medium.com/swlh) - Medium's largest active publication, followed by +738K people.
+5. [UX Planet](https://uxplanet.org/) - UX Planet is a one-stop resource for everything related to user experience.
+6. [Level Up Coding](https://levelup.gitconnected.com/) - Coding tutorials and news. The developer homepage gitconnected.com
+
+### My Stats
+
+Below are my total stats till date that were recorded on Dec 12, 2020 with the help of an [medium stats chrome extension](https://chrome.google.com/webstore/detail/better-medium-stats/pdehepohihkkmeclfnlnipieffkomajc?hl=en)
+
+Stats 📊 | Articles 📚 |  Views 👀 | Reads ✏️ | Followers 🧑‍🤝‍🧑 | 
+--- | --- | --- | --- |--- |
+Data | 51 | 789,883 | 341,545 | 1,047 | 
+
+
+
+
+
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Presenting Python code using RISE](https://towardsdatascience.com/presenting-python-code-using-rise-d0dddd48e749?source=rss-7edbfdf1201d------2)
