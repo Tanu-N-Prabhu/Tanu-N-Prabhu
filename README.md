@@ -61,7 +61,7 @@ Data | 51 | 789,883 | 341,545 | 1,047 |
 <!-- BLOG-POST-LIST:END -->
 ---
 
-## Certificates
+## I am a [Certified](https://github.com/Tanu-N-Prabhu/Certificates) developer
 
 
 Till now as of December 12, 2020 I have achieved 22 documented certifications which are listed below. 
