@@ -10,7 +10,7 @@
 
 ## Hi there, I'm Tanu Nanda Prabhu - aka [TNP][website] 👋 
 
-### Three most important points of my life  <img align="right" src="https://github.com/Tanu-N-Prabhu/Tanu-N-Prabhu/blob/master/Snapchat.jpg" width="200" height="200">
+### Three most important points of my life  <img align="right" src="https://github.com/Tanu-N-Prabhu/Tanu-N-Prabhu/blob/master/Snapchat.jpg" width="150" height="150">
 * Master of Science in Computer Science at the <a href="https://www.uregina.ca/">University of Regina</a>
  
 * Writer at <a href = "https://medium.com/@tanunprabhu95">Medium</a>
