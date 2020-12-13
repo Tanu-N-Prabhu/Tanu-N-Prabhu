@@ -24,15 +24,6 @@ Cool stuff about me:
 - ⚡ Fun fact: I like to play <a href = "https://www.miniclip.com/games/8-ball-pool-multiplayer/en/">8-ball pool</a> and <a href = "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F0%2F09%2FOsphronemus_Gourami_%2528better%2529.png%2F1200px-Osphronemus_Gourami_%2528better%2529.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGiant_gourami&tbnid=m-w4WYaL3_37wM&vet=12ahUKEwiHr4PVhqbrAhWRgp4KHa7gAYwQMygAegUIARDPAQ..i&docid=c1q8hb42OTNJ2M&w=1200&h=878&q=giant%20gourami&ved=2ahUKEwiHr4PVhqbrAhWRgp4KHa7gAYwQMygAegUIARDPAQ">pet fishes</a> 
 
 ---
-
-## Projects Done by Me
-
-1. Notes Me 
-
-   <b>Objective</b> 
-   <p align = "justify">Note-taking apps are the online equivalent of notebooks, and they can do more for you than paper can ever do, since they are digital. The main goal behind the creation of the "Notes Me" application was to build a place to add our day-to-day notes or other important information, and then save them as a text file at the same time so that they stay in our local storage. Also, you can choose the date and then save your notes by their filename, so that you can access them by accordingly. Most importantly this is not an android application, rather this is a static webapplication which is very responsive: meaning fits to different screes of various aspect ratios.</p>
-
----
 ![Tanu Nanda Prabhu's github stats](https://github-readme-stats.vercel.app/api?username=Tanu-N-Prabhu&show_icons=true)
 
 ---
