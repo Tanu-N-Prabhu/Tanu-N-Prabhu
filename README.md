@@ -144,7 +144,7 @@ Data | 29 | 1,583 | 106 |
 #### Python Repository Stats
 Stats   |  Hits  | Contributors | Forks | Stars | Repo. size | Commits |
 --- | --- | --- | --- |--- |--- |--- |
-Data | 710 789,883 | 9 | 287 | 230 | 5.62MB| 507 |
+Data | 710 | 9 | 287 | 230 | 5.62MB| 507 |
 
 #### Kaggle Datasets
 Name   |  View | Downloads |  Notebooks | Upvotes |
