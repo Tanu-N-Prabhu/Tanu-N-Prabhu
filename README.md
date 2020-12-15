@@ -128,6 +128,64 @@ honor description• This is an award issued for securing the 4th position acros
 • I was recognized as the academic topper with a percentage of 78.8%.
 
 
+#### Medium Stats
+
+> All of the below stats were recorded as of today (December 15, 2020)
+
+Stats 📊 | Articles 📚 |  Views 👀 | Reads ✏️ | Followers 🧑‍🤝‍🧑 | 
+--- | --- | --- | --- |--- |
+Data | 51 | 789,883 | 341,545 | 1,047 | 
+
+#### GitHub Stats
+Stats 📊 | Repositories 📂 |  Commits (2019-20) 💾 | Followers 🧑‍🤝‍🧑 | 
+--- | --- | --- | --- |
+Data | 29 | 1,583 | 106 | 
+
+
+### Python Repository Stats
+Stats   |  Hits  | Contributors | Forks | Stars | Repo. size | Commits |
+--- | --- | --- | --- |--- |--- |--- |
+Data | 710 789,883 | 9 | 287 | 230 | 5.62MB| 507 |
+
+#### Kaggle Datasets
+Name   |  View | Downloads |  Notebooks | Upvotes |
+--- | --- | --- |--- |--- |
+Population by Country - 2020 | 21,637 | 6,319 | 168 | 73 |
+Coronavirus 2019-2020 latest dataset | 483  | 39 | 1 | 2 |
+University of Regina Employees Salary List | 1,423  | 111  | 2 | 2 |
+List of Countries by number of Internet Users | 13,792  | 1,019  | 4 | 21 |
+Linear Regression Data-set | 21,637 | 6,319 | 10 | 20 | 
+Hyper Cars 2019 | 4,962  | 479  | 2 | 13 |
+PewDiePie's Subscribers | 2,818 | 498  | 1 | 8 |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ---
