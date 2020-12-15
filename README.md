@@ -130,7 +130,7 @@ honor description• This is an award issued for securing the 4th position acros
 
 #### Medium Stats
 
-> All of the below stats were recorded as of today (December 15, 2020)
+> All of the below stats were recorded as of today (December 15, 2020) at 5:45 PM
 
 Stats 📊 | Articles 📚 |  Views 👀 | Reads ✏️ | Followers 🧑‍🤝‍🧑 | 
 --- | --- | --- | --- |--- |
@@ -141,8 +141,7 @@ Stats 📊 | Repositories 📂 |  Commits (2019-20) 💾 | Followers 🧑‍🤝
 --- | --- | --- | --- |
 Data | 29 | 1,583 | 106 | 
 
-
-### Python Repository Stats
+#### Python Repository Stats
 Stats   |  Hits  | Contributors | Forks | Stars | Repo. size | Commits |
 --- | --- | --- | --- |--- |--- |--- |
 Data | 710 789,883 | 9 | 287 | 230 | 5.62MB| 507 |
