@@ -1,7 +1,7 @@
 
 <p align="center">
 
-<img src = "https://github.com/Tanu-N-Prabhu/Tanu-N-Prabhu/blob/master/7QNKs62U.gif" width="350">
+<img src = "https://github.com/Tanu-N-Prabhu/Tanu-N-Prabhu/blob/master/7QNKs62U.gif" width="550">
 <br>
 <br>
 <img src = "https://github.com/Tanu-N-Prabhu/Tanu-N-Prabhu/blob/master/Img/image.png" width="250" height="325">
@@ -39,17 +39,13 @@ My specialties include quickly learning new skills, programming languages, probl
 - ⚡ Fun fact: I like to play <a href = "https://www.miniclip.com/games/8-ball-pool-multiplayer/en/">8-ball pool</a> and <a href = "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F0%2F09%2FOsphronemus_Gourami_%2528better%2529.png%2F1200px-Osphronemus_Gourami_%2528better%2529.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGiant_gourami&tbnid=m-w4WYaL3_37wM&vet=12ahUKEwiHr4PVhqbrAhWRgp4KHa7gAYwQMygAegUIARDPAQ..i&docid=c1q8hb42OTNJ2M&w=1200&h=878&q=giant%20gourami&ved=2ahUKEwiHr4PVhqbrAhWRgp4KHa7gAYwQMygAegUIARDPAQ">pet fishes</a> 
 
 ---
-![Tanu Nanda Prabhu's github stats](https://github-readme-stats.vercel.app/api?username=Tanu-N-Prabhu&show_icons=true)
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu)
----
-
 
 ## I am a [Medium](https://medium.com/@tanunprabhu95) Writer 
+> [Medium](https://medium.com/) - Freelancer
 
-I have been a writer on Medium for over 2 years now. I started my journey on June 17, 2019 by writing my first article titled [Mastering the features of Google Colaboratory !!!](https://towardsdatascience.com/mastering-the-features-of-google-colaboratory-92850e75701), from then till today I have written 50 articles on various intrests such as Python, Data Science, Web Design, and Android. This includes tutorials, DIY's projects, and programming from scratch, and building apps. I write for 6 publications listed below.
+> June 2019 - Present • 1 year and 7 months
+
+As an author for Medium, I work explicitly with medium claimed and autonomously possessed distributions to deliver content for their perusers week by week. My writing pivots around the subjects of Python Programming, Data Science, Web Design, and Android. This includes tutorials, DIY projects, programming from scratch, and building apps as wellI have been a writer on Medium for over 2 years now. I started my journey on June 17, 2019 by writing my first article titled [Mastering the features of Google Colaboratory !!!](https://towardsdatascience.com/mastering-the-features-of-google-colaboratory-92850e75701), from then till today I have written 50 articles on various intrests such as Python, Data Science, Web Design, and Android. This includes tutorials, DIY's projects, and programming from scratch, and building apps. I write for 6 publications listed below.
 
 ### Publications
  
@@ -59,6 +55,9 @@ I have been a writer on Medium for over 2 years now. I started my journey on Jun
 4. [The Startup](https://medium.com/swlh) - Medium's largest active publication, followed by +738K people.
 5. [UX Planet](https://uxplanet.org/) - UX Planet is a one-stop resource for everything related to user experience.
 6. [Level Up Coding](https://levelup.gitconnected.com/) - Coding tutorials and news. The developer homepage gitconnected.com
+
+I share my contemplations on Computer Science and Programming on my Medium and its publications and conveying the erudition for both technical and non-technical readers.
+
 
 ### My Stats
 
@@ -77,6 +76,17 @@ Data | 51 | 789,883 | 341,545 | 1,047 |
 - [Rendering Images inside a Pandas DataFrame](https://towardsdatascience.com/rendering-images-inside-a-pandas-dataframe-3631a4883f60?source=rss-7edbfdf1201d------2)
 <!-- BLOG-POST-LIST:END -->
 ---
+
+
+
+![Tanu Nanda Prabhu's github stats](https://github-readme-stats.vercel.app/api?username=Tanu-N-Prabhu&show_icons=true)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu)
+---
+
+
 
 ## I am a [Certified](https://github.com/Tanu-N-Prabhu/Certificates) developer
 
