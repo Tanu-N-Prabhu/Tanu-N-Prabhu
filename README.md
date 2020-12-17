@@ -214,33 +214,36 @@ Number | Name |  Date | Issued By |
 
 ---
 
-Data Science Lab Award
-honor dateFeb 2020  honor issuerUniversity of Regina
+## I have been Awarded 3 Times
 
-honor description• This award was issued for delivering a mind-blowing data science proposal presentation.
-• The proposal titled "A Used Car Price Prediction System (UCPPS)" and was an individual project as well.
-• Out of 20 presentations, UCPPS was chosen as the 4th best presentation in the whole class.
-• The award was issued by Professor Alireza Manashty.
-• A Ph.D., Assistant Professor (Data Science & Machine Learning), Director, Data Science Lab at UofR
-• As an award I was given a Roots 73 - Rainproof 17.3 inch Laptop and Tablet 21L Backpack (Grey).
+### Data Science Lab Award
+> Feb 2020 - University of Regina
 
-Brand Building Ambassador
-honor dateJun 2018  honor issuerGlobal Academy of Technology
+* This award was issued for delivering a mind-blowing data science proposal presentation.
+* The proposal titled "A Used Car Price Prediction System (UCPPS)" and was an individual project as well.
+* Out of 20 presentations, UCPPS was chosen as the 4th best presentation in the whole class.
+* The award was issued by Professor Alireza Manashty.
+* A Ph.D., Assistant Professor (Data Science & Machine Learning), Director, Data Science Lab at UofR
+* As an award I was given a Roots 73 - Rainproof 17.3 inch Laptop and Tablet 21L Backpack (Grey).
 
-honor description• This is an award for Brand Building.
-• Issued by Global Academy of Technology to me bearing the USN 1GA14CS145.
-• From the department of Computer Science and Engineering for my outstanding brand-building skills.
-• This award was issued during the term 2014 - 18, by the principal "Dr. N Ranapratap Reddy".
+### Brand Building Ambassador
+>Jun 2018 - Global Academy of Technology
 
-Academic Topper
-honor dateMay 2018  honor issuerGlobal Academy of Technology
+* This is an award for Brand Building.
+* Issued by Global Academy of Technology to me bearing the USN 1GA14CS145.
+* From the department of Computer Science and Engineering for my outstanding brand-building skills.
+* This award was issued during the term 2014 - 18, by the principal "Dr. N Ranapratap Reddy".
 
-honor description• This is an award issued for securing the 4th position across the whole department of CS.
-• Issued by Global Academy of Technology to me bearing the USN 1GA14CS145.
-• From the department of Computer Science and Engineering for my outstanding brand-building skills.
-• This award was issued during the term 2014 - 18, by the principal "Dr. N Ranapratap Reddy".
-• I was recognized as the academic topper with a percentage of 78.8%.
+### Academic Topper
+> May 2018 - Global Academy of Technology
 
+* This is an award issued for securing the 4th position across the whole department of CS.
+* Issued by Global Academy of Technology to me bearing the USN 1GA14CS145.
+* From the department of Computer Science and Engineering for my outstanding brand-building skills.
+* This award was issued during the term 2014 - 18, by the principal "Dr. N Ranapratap Reddy".
+* I was recognized as the academic topper with a percentage of 78.8%.
+
+---
 
 #### Medium Stats
 
