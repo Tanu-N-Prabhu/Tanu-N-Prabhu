@@ -245,13 +245,9 @@ Number | Name |  Date | Issued By |
 
 ---
 
-#### Medium Stats
+## I am inerm of Stats
 
 > All of the below stats were recorded as of today (December 15, 2020) at 5:45 PM
-
-Stats 📊 | Articles 📚 |  Views 👀 | Reads ✏️ | Followers 🧑‍🤝‍🧑 | 
---- | --- | --- | --- |--- |
-Data | 51 | 789,883 | 341,545 | 1,047 | 
 
 #### GitHub Stats
 Stats 📊 | Repositories 📂 |  Commits (2019-20) 💾 | Followers 🧑‍🤝‍🧑 | 
@@ -274,43 +270,17 @@ Linear Regression Data-set | 21,637 | 6,319 | 10 | 20 |
 Hyper Cars 2019 | 4,962  | 479  | 2 | 13 |
 PewDiePie's Subscribers | 2,818 | 498  | 1 | 8 |
 
----
 
 ![Tanu Nanda Prabhu's github stats](https://github-readme-stats.vercel.app/api?username=Tanu-N-Prabhu&show_icons=true)
 
----
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu)
 
 ---
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### 😂 Here is a random joke that'll make you laugh!
+## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ---
 
