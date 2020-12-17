@@ -117,7 +117,7 @@ Courses Taken (30 Credit Hours)
 2. CS 890DH - Topics on Communications
 
 
-#### Global Academy Of Technology    <img align="right" src="https://github.com/Tanu-N-Prabhu/Tanu-N-Prabhu/blob/master/Img/1513250512bjbdjbsfjbsfc.jfif" width="200">
+#### Global Academy Of Technology    <img align="right" src="https://github.com/Tanu-N-Prabhu/Tanu-N-Prabhu/blob/master/Img/1513250512bjbdjbsfjbsfc.jfif" width="150">
 > Bachelor of Engineering - BE, Computer Science, Percentage - 76.69%
 
 > 2014 – 2018
