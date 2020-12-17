@@ -260,6 +260,7 @@ Stats   |  Hits  | Contributors | Forks | Stars | Repo. size | Commits |
 Data | 710 | 9 | 287 | 230 | 5.62MB| 507 |
 
 #### Kaggle Datasets
+
 Name   |  View | Downloads |  Notebooks | Upvotes |
 --- | --- | --- |--- |--- |
 Population by Country - 2020 | 21,637 | 6,319 | 168 | 73 |
