@@ -245,7 +245,7 @@ Number | Name |  Date | Issued By |
 
 ---
 
-## I am inerm of Stats
+## I am interm of Stats
 
 > All of the below stats were recorded as of today (December 15, 2020) at 5:45 PM
 
