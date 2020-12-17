@@ -77,7 +77,109 @@ Data | 51 | 789,883 | 341,545 | 1,047 |
 <!-- BLOG-POST-LIST:END -->
 ---
 
+## I am an Educated Person  
 
+#### University of Regina      <img align="right" src="https://github.com/Tanu-N-Prabhu/Tanu-N-Prabhu/blob/master/Img/UR_Logo_Primary_Full_Colour_RGB.jpg" width="200">
+> Degree Name: Master of Science - MS, Computer Science, Percentage 91.4% or GPA 4.0
+
+> 2019 – 2020
+
+###### Activities and Societies:
+* Served as a Student Multi-Faith Peer Chaplain at Luther College, UofR, Aug. 2019 - March 2020. 
+* Invigilated CS 205 - Introduction to Multimedia Systems exam, instructor Dr. Daryl Hepting, Feb 2019. 
+* Invigilated CS 110 - Programming and Problem-Solving exam, instructor Mark Selinger, March 2019.
+
+> Ranked 1st among classmates
+
+> Student ID: 200409072
+
+Courses Taken (30 Credit Hours)
+2019 Winter
+1. CS 807 - Interactive Hardware
+2. CS 834 - Computer Systems Security
+3. GRST 800AA - Academic Integrity: Tutorial 1
+
+2019 Spring/Summer
+1. CS 829 - Information Theory
+2. CS 890AC - Data Analysis from the Internet
+
+2019 Fall
+1. CS 828 - Human-Computer Communication
+2. CS 855 - Mobile Computing
+
+2020 Winter
+1. CS 872 - Software Engineering
+2. CS 890ES - Data Science Fundamentals
+3. CS 900 - CS Graduate Seminar
+
+2020 Spring/Summer
+1. CS 825 - Image Processing
+2. CS 890DH - Topics on Communications
+
+
+#### Global Academy Of Technology    <img align="right" src="https://github.com/Tanu-N-Prabhu/Tanu-N-Prabhu/blob/master/Img/1513250512bjbdjbsfjbsfc.jfif" width="200">
+> Bachelor of Engineering - BE, Computer Science, Percentage - 76.69%
+
+> 2014 – 2018
+
+##### Activities and Societies: 
+* Won a winner memento for the excellent presentation skills, Seventh Sense Talent Solutions, April 2017. 
+* Played as a Vice Captain, in an 8-over cricket match, GENESYS college Fest, August 2015. 
+* Volunteered for a seminar on "Network Security", conducted by Oracle, GAT, October 14. 
+* Site visit and observed a short film, on Tata Consulting Services, February 2017.
+
+> Ranked 2nd among classmates
+
+> USN - 1GA14CS145
+
+Highlighting Courses:
+First Semester
+1. Engineering Maths - 1
+2. Basic Electrical Engineering
+
+Second Semester
+1. Engineering Maths - 2
+2. Programming in C and Data Structures
+
+Third Semester
+1. Engineering Maths - 3
+2. Logic Design
+3. Data Structures with C/C++
+4. Object-Oriented Programming with C++
+
+Fourth Semester
+1. Engineering Mathematics - 4
+2. Graph Theory
+3. Design and Analysis of Algorithms
+4. Unix and Shell Programming
+5. Microprocessors
+
+Fifth Semester
+1. Software Engineering
+2. Systems Software
+3. Database Management Systems
+4. Operating Systems
+5. Computer Networks
+
+Sixth Semester
+1. Management and Entrepreneurship
+2. Compiler Design
+3. Computer Graphics
+
+Seventh Semester
+1. Object-Oriented Modeling and Design
+2. Embedded Computing Systems
+3. Programming the Web
+4. Java and J2EE
+
+Eight Semester
+1. Software Architecture
+2. System Modeling and Simulation
+3. Information and Network Security
+4. Software Testing
+
+
+---
 
 ![Tanu Nanda Prabhu's github stats](https://github-readme-stats.vercel.app/api?username=Tanu-N-Prabhu&show_icons=true)
 
