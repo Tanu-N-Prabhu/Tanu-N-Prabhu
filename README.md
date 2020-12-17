@@ -178,17 +178,7 @@ Eight Semester
 3. Information and Network Security
 4. Software Testing
 
-
 ---
-
-![Tanu Nanda Prabhu's github stats](https://github-readme-stats.vercel.app/api?username=Tanu-N-Prabhu&show_icons=true)
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu)
----
-
-
 
 ## I am a [Certified](https://github.com/Tanu-N-Prabhu/Certificates) developer
 
@@ -281,7 +271,15 @@ Linear Regression Data-set | 21,637 | 6,319 | 10 | 20 |
 Hyper Cars 2019 | 4,962  | 479  | 2 | 13 |
 PewDiePie's Subscribers | 2,818 | 498  | 1 | 8 |
 
+---
 
+![Tanu Nanda Prabhu's github stats](https://github-readme-stats.vercel.app/api?username=Tanu-N-Prabhu&show_icons=true)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu)
+
+---
 
 
 
