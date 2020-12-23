@@ -66,7 +66,7 @@ Below are my total stats till date that were recorded on Dec 12, 2020 with the h
 
 Stats 📊 | Articles 📚 |  Views 👀 | Reads ✏️ | Followers 🧑‍🤝‍🧑 | 
 --- | --- | --- | --- |--- |
-Data | 51 | 789,883 | 341,545 | 1,047 | 
+Data | 52 | 789,883 | 341,545 | 1,047 | 
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
