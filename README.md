@@ -70,11 +70,11 @@ Data | 52 | 789,883 | 341,545 | 1,047 |
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [HTML Forms vs Bootstrap Forms](https://medium.com/dev-genius/html-forms-vs-bootstrap-forms-5d2001318f25?source=rss-7edbfdf1201d------2)
 - [The two Google Search Python Libraries you should never miss!](https://medium.com/analytics-vidhya/the-two-google-search-python-libraries-you-should-never-miss-dfb2ec324a33?source=rss-7edbfdf1201d------2)
 - [Presenting Python code using RISE](https://towardsdatascience.com/presenting-python-code-using-rise-d0dddd48e749?source=rss-7edbfdf1201d------2)
 - [How to handle JSON in Python](https://towardsdatascience.com/how-to-handle-json-in-python-d877125df39b?source=rss-7edbfdf1201d------2)
 - [Using the Pandas DataFrame in Day-To-Day Life](https://towardsdatascience.com/using-the-pandas-dataframe-in-day-to-day-life-91859ee12cca?source=rss-7edbfdf1201d------2)
-- [Global, Local and Nonlocal variables in Python](https://towardsdatascience.com/global-local-and-nonlocal-variables-in-python-6b11c20d73b0?source=rss-7edbfdf1201d------2)
 <!-- BLOG-POST-LIST:END -->
 ---
 
