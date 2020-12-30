@@ -246,6 +246,17 @@ Number | Name |  Date | Issued By |
 * I was recognized as the academic topper with a percentage of 78.8%.
 
 ---
+## I speak 4 Languages
+
+1. English - Professional working proficiency
+
+2. हिंदी (Hindi) - Professional working proficiency
+
+3. ಕನ್ನಡ (Kannada) - Native or bilingual proficiency
+
+4. Konkani - Native or bilingual proficiency
+
+---
 
 ## I am interm of Stats
 
