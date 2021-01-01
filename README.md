@@ -234,6 +234,24 @@ Number | Name |  Date | Issued By |
 
 ---
 
+### 2. Through The Lens
+
+> Jun 2020 – Present
+
+#### Description
+
+* A responsive 3-page static portfolio/website.
+* Developed a portfolio for Timothy Wong- a photographer student for showcasing his writing skill.
+* Version control and open-sourcing code using Git and GitHub.
+* Used GitHub Pages for hosting.
+* Languages and tools: JavaScript, HTML5, CSS3, Bootstrap, jQuery, Brackets, GitHub.
+* Code and documentation: [GitHub](https://github.com/Tanu-N-Prabhu/snapshot_wascana)
+
+[See the Result](https://tanu-n-prabhu.github.io/snapshot_wascana/)
+
+
+---
+
 ## I have been Awarded 3 Times
 
 ### Data Science Lab Award
