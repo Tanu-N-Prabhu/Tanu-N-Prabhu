@@ -252,6 +252,23 @@ Number | Name |  Date | Issued By |
 
 ---
 
+
+### 3. Notes Me
+
+> Nov 2020 – Dec 2020
+
+#### Description
+* A responsive web-based note-taking and saving application.
+* Saving the form data as a text file using JavaScript. Date feature is incorporated for tracking.
+* Version control and open-sourcing code using Git and GitHub.
+* Used GitHub pages for hosting.
+* Languages and tools: Javascript, HTML5, CSS3, Bootstrap, Brackets, GitHub.
+* Code and Documentation: [GitHub](https://github.com/Tanu-N-Prabhu/Notes-Me)
+
+[See the Result](https://tanu-n-prabhu.github.io/Notes-Me/)
+
+---
+
 ## I have been Awarded 3 Times
 
 ### Data Science Lab Award
