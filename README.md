@@ -269,6 +269,24 @@ Number | Name |  Date | Issued By |
 
 ---
 
+
+### 4. Implementation of FFT and Image Sharpening and Smoothing
+
+> May 2020 – Aug 2020
+
+#### Description
+* Implementing 1D FFT and 2D FFT for the grey-scale input images.
+* Computing the DFT magnitude and performing the Fourier Spectrum Analysis.
+* Performing Image smoothing using Low-Pass Filtering and sharpening using High-Pass Filtering.
+* Languages and Tools - Python, Google Colab.
+* Code and Documentation - [GitHub](https://github.com/Tanu-N-Prabhu/Image-Processing/tree/main/Project)
+
+> Code access is based on request. Not open to the public.
+
+[See the Result](https://github.com/Tanu-N-Prabhu/Image-Processing/tree/main/Project)
+
+---
+
 ## I have been Awarded 3 Times
 
 ### Data Science Lab Award
