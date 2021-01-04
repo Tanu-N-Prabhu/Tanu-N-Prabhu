@@ -23,6 +23,7 @@
 
 My specialties include quickly learning new skills, programming languages, problem-solving, web development, MVC, Django’s MVT, methods of organizing code. So far I have HTML, CSS, Bootstrap, JavaScript, XML, Markdown, JQuery, Git/GitHub, Python under my belt. Take a look at my [work](https://github.com/Tanu-N-Prabhu/Tanu-N-Prabhu) or get in touch! 
 
+
 ### Three most important points of my life  <img align="right" src="https://github.com/Tanu-N-Prabhu/Tanu-N-Prabhu/blob/master/Snapchat.jpg" width="200" height="200">
 * Master of Science in Computer Science at the <a href="https://www.uregina.ca/">University of Regina</a>
  
