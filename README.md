@@ -53,10 +53,12 @@ As an author for Medium, I work explicitly with medium claimed and autonomously 
  
 1. [Towards Data Science](https://towardsdatascience.com/) - A Medium publication sharing concepts, ideas, and codes. 
 2. [Analytics Vidhya](https://medium.com/analytics-vidhya) - Analytics Vidhya is a community of Analytics and Data Science professionals. We are building the next-gen data science ecosystem.
-3. [Kt.Academy](https://blog.kotlin-academy.com/) - Blog with mission to simplify Kotlin learning
+3. [Kt.Academy](https://blog.kotlin-academy.com/) - Blog with mission to simplify Kotlin learning.
 4. [The Startup](https://medium.com/swlh) - Medium's largest active publication, followed by +738K people.
 5. [UX Planet](https://uxplanet.org/) - UX Planet is a one-stop resource for everything related to user experience.
-6. [Level Up Coding](https://levelup.gitconnected.com/) - Coding tutorials and news. The developer homepage gitconnected.com
+6. [Level Up Coding](https://levelup.gitconnected.com/) - Coding tutorials and news. The developer homepage gitconnected.com.
+7. [Dev Genius](https://medium.com/dev-genius) - Coding, Tutorials, News, UX, UI and much more related to development.
+
 
 I share my contemplations on Computer Science and Programming on my Medium and its publications and conveying the erudition for both technical and non-technical readers.
 
@@ -67,7 +69,7 @@ Below are my total stats till date that were recorded on Dec 12, 2020 with the h
 
 Stats 📊 | Articles 📚 |  Views 👀 | Reads ✏️ | Followers 🧑‍🤝‍🧑 | 
 --- | --- | --- | --- |--- |
-Data | 52 | 789,883 | 341,545 | 1,047 | 
+Data | 54 | 789,883 | 341,545 | 1,047 | 
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
