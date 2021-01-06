@@ -45,7 +45,7 @@ My specialties include quickly learning new skills, programming languages, probl
 ## I am a [Medium](https://medium.com/@tanunprabhu95) Writer 
 > [Medium](https://medium.com/) - Freelancer
 
-> June 2019 - Present • 1 year and 7 months
+> June 2019 - Present • 1 year and 8 months
 
 As an author for Medium, I work explicitly with medium claimed and autonomously possessed distributions to deliver content for their perusers week by week. My writing pivots around the subjects of Python Programming, Data Science, Web Design, and Android. This includes tutorials, DIY projects, programming from scratch, and building apps as wellI have been a writer on Medium for over 2 years now. I started my journey on June 17, 2019 by writing my first article titled [Mastering the features of Google Colaboratory !!!](https://towardsdatascience.com/mastering-the-features-of-google-colaboratory-92850e75701), from then till today I have written 50 articles on various intrests such as Python, Data Science, Web Design, and Android. This includes tutorials, DIY's projects, and programming from scratch, and building apps. I write for 6 publications listed below.
 
