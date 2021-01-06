@@ -290,6 +290,26 @@ Number | Name |  Date | Issued By |
 
 ---
 
+
+### 5. A Comparative Study On Various Providers of Wearable Wireless Sensor Products And Solutions (WWSPaS)
+
+> May 2020 – Jul 2020
+
+#### Description
+
+* A research comparative survey project.
+* Proposed a detailed comparison of different models, products, and solutions of body sensor networks.
+* Models such as Libelium, SHIMMER, OCF(IoTivity), and LORAWAN protocol were studied in depth.
+* Different research papers (14) were being referred to as proposing a comparative study.
+* In-depth comparison of LoRa with GPS and IoT4HC with GPRS along with pros and cons were listed.
+* [Research Paper](https://github.com/Tanu-N-Prabhu/Topics-On-Communications/blob/main/TOC_Final_Report.pdf)
+
+[See the Result](https://github.com/Tanu-N-Prabhu/Topics-On-Communications/blob/main/TOC_Final_Report.pdf)
+
+
+
+---
+
 ## I have been Awarded 3 Times
 
 ### Data Science Lab Award
