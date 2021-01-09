@@ -390,7 +390,7 @@ PewDiePie's Subscribers | 2,818 | 498  | 1 | 8 |
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
----
+
 
 <p align="center">
 
