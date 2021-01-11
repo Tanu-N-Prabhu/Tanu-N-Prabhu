@@ -73,11 +73,11 @@ Data | 54 | 789,883 | 341,545 | 1,047 |
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Displaying Contributors Image on README files with no Pain!](https://levelup.gitconnected.com/displaying-contributors-image-on-readme-files-with-no-pain-f1cbaca963e8?source=rss-7edbfdf1201d------2)
 - [3 Main Reasons to Have a Plecostomus In Your Aquarium](https://medium.com/contemplate/3-main-reasons-to-have-a-plecostomus-in-your-aquarium-8b9ac927bf2c?source=rss-7edbfdf1201d------2)
 - [Making an Image Responsive with 6 lines of code](https://medium.com/dev-genius/making-an-image-responsive-with-6-lines-of-code-27916b2a67bf?source=rss-7edbfdf1201d------2)
 - [Top 5 Advantages of a Good Responsive Design](https://medium.com/dev-genius/top-5-advantages-of-a-good-responsive-design-9e06a4490499?source=rss-7edbfdf1201d------2)
 - [HTML Forms vs Bootstrap Forms](https://medium.com/dev-genius/html-forms-vs-bootstrap-forms-5d2001318f25?source=rss-7edbfdf1201d------2)
-- [The two Google Search Python Libraries you should never miss!](https://medium.com/analytics-vidhya/the-two-google-search-python-libraries-you-should-never-miss-dfb2ec324a33?source=rss-7edbfdf1201d------2)
 <!-- BLOG-POST-LIST:END -->
 ---
 
