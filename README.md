@@ -383,7 +383,7 @@ PewDiePie's Subscribers | 2,818 | 498  | 1 | 8 |
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=blue-green)
 
 ---
 
