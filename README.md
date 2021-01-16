@@ -103,29 +103,29 @@ Data | 54 | 789,883 | 341,545 | 1,047 |
 Courses Taken (30 Credit Hours)
 
 <details>
-<summary>Expand to see all my academic courses in the Graduate School</summary>
+<summary>Courses Taken (30 Credit Hours)</summary>
 
- 2019 Winter
- 1. CS 807 - Interactive Hardware
- 2. CS 834 - Computer Systems Security
- 3. GRST 800AA - Academic Integrity: Tutorial 1
+   2019 Winter
+   1. CS 807 - Interactive Hardware
+   2. CS 834 - Computer Systems Security
+   3. GRST 800AA - Academic Integrity: Tutorial 1
 
- 2019 Spring/Summer
- 1. CS 829 - Information Theory
- 2. CS 890AC - Data Analysis from the Internet
+   2019 Spring/Summer
+   1. CS 829 - Information Theory
+   2. CS 890AC - Data Analysis from the Internet
 
- 2019 Fall
- 1. CS 828 - Human-Computer Communication
- 2. CS 855 - Mobile Computing
+   2019 Fall
+   1. CS 828 - Human-Computer Communication
+   2. CS 855 - Mobile Computing
 
- 2020 Winter
- 1. CS 872 - Software Engineering
- 2. CS 890ES - Data Science Fundamentals
- 3. CS 900 - CS Graduate Seminar
+   2020 Winter
+   1. CS 872 - Software Engineering
+   2. CS 890ES - Data Science Fundamentals
+   3. CS 900 - CS Graduate Seminar
 
- 2020 Spring/Summer
- 1. CS 825 - Image Processing
- 2. CS 890DH - Topics on Communications
+   2020 Spring/Summer
+   1. CS 825 - Image Processing
+   2. CS 890DH - Topics on Communications
 
 </details>
 
