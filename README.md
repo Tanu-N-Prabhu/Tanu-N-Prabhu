@@ -398,7 +398,7 @@ PewDiePie's Subscribers | 2,818 | 498  | 1 | 8 |
 
 <p align="center">
 
-<img src = "https://github.com/Tanu-N-Prabhu/Tanu-N-Prabhu/blob/master/snap.jpg">
+<img src = "Img/snap.jpg">
 
 </p>
 
