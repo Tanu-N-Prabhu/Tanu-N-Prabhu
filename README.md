@@ -103,9 +103,9 @@ Data | 54 | 789,883 | 341,545 | 1,047 |
 Courses Taken (30 Credit Hours)
 
 <details>
-<summary>To make sure markdown is rendered correctly in the collapsed section...</summary>
+<summary>Expand to see all my academic courses in the Graduate School</summary>
 
-2019 Winter
+ 2019 Winter
  1. CS 807 - Interactive Hardware
  2. CS 834 - Computer Systems Security
  3. GRST 800AA - Academic Integrity: Tutorial 1
