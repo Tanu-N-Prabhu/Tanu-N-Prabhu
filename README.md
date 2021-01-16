@@ -1,9 +1,13 @@
 
 <p align="center">
-
+<!--
 <img src = "https://github.com/Tanu-N-Prabhu/Tanu-N-Prabhu/blob/master/7QNKs62U.gif" width="550">
 <br>
 <br>
+-->
+ 
+ 
+ 
 <img src = "https://github.com/Tanu-N-Prabhu/Tanu-N-Prabhu/blob/master/Img/image.png" width="250" height="325">
 
 </p>
