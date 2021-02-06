@@ -16,6 +16,7 @@
 <p align="right"><img src=https://komarev.com/ghpvc/?username=Tanu-N-Prabhu /> </p>
 
 
+
 ## Hi there, I'm Tanu Nanda Prabhu - aka [TNP][website] 👋 
 
 
@@ -172,6 +173,7 @@ Fifth Semester
 3. Database Management Systems
 4. Operating Systems
 5. Computer Networks
+
 
 Sixth Semester
 1. Management and Entrepreneurship
@@ -405,5 +407,9 @@ PewDiePie's Subscribers | 2,818 | 498  | 1 | 8 |
 
 </p>
 
+
+
 [website]: https://tanu-n-prabhu.github.io/myWebsite.io/
 [project]: https://tanu-n-prabhu.github.io/snapshot_wascana/index.html
+
+---
