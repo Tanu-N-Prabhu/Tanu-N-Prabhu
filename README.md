@@ -448,6 +448,20 @@ PewDiePie's Subscribers | 2,818 | 498  | 1 | 8 |
 
 ---
 
+## Feel Free to Contact Me
+
+|<b>Contact</b>| <b>Details</b>| 
+| :---:   | :-: | 
+| <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> | tanunprabhu95@gmail.com| 
+| <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> | [Tanu-N-Prabhu](https://github.com/Tanu-N-Prabhu)| 
+| <img src = https://img.shields.io/badge/Portfolio-Website-red/> | [`TNP's <HUB>`](https://tanu-n-prabhu.github.io/myWebsite.io/)| 
+| <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> | [Tanu Nanda Prabhu](https://www.linkedin.com/in/tanu-nanda-prabhu-a15a091b5/)| 
+| <img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/> | [Tanu N Prabhu](https://medium.com/@tanunprabhu95)| 
+| <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>| +1 306-737-9073| 
+| <img alt="" src="https://img.shields.io/badge/Snapchat%20-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=white"/>| tanunprabhu46| 
+| <img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>| [Python Coder](https://www.instagram.com/pycoderr/)| 
+
+
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
@@ -458,6 +472,8 @@ PewDiePie's Subscribers | 2,818 | 498  | 1 | 8 |
 <img src = "Img/snap.jpg">
 
 </p>
+
+
 
 
 
