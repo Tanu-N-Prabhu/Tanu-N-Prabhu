@@ -15,7 +15,7 @@
 
 
 
-## Hi there, I'm Tanu Nanda Prabhu - aka [TNP][website] 👋 
+# Hi there, I'm Tanu Nanda Prabhu - aka [TNP][website] 👋 
 
 
 <p align = "justify">I am a recent Graduate Student with a Computer Science degree (MSc) and have a potential for schooling and a persistent drive for constant improvement in the entirety of my endeavors. After coding in the scholarly world and as a hobby for years, in 2020 I finally decided to become serious about software engineering and technical content writer as a career.</p>
@@ -27,7 +27,7 @@
 My specialties include quickly learning new skills, programming languages, problem-solving, web development, MVC, Django’s MVT, methods of organizing code. So far I have HTML, CSS, Bootstrap, JavaScript, XML, Markdown, JQuery, Git/GitHub, Python under my belt. Take a look at my [work](https://github.com/Tanu-N-Prabhu/Tanu-N-Prabhu) or get in touch! 
 
 
-### Three most important points of my life  <img align="right" src="Img/Snapchat.jpg" width="200" height="200">
+## Three most important points of my life  <img align="right" src="Img/Snapchat.jpg" width="200" height="200">
 * Master of Science in Computer Science at the <a href="https://www.uregina.ca/">University of Regina</a>
  
 * Writer at <a href = "https://medium.com/@tanunprabhu95">Medium</a>
@@ -37,7 +37,7 @@ My specialties include quickly learning new skills, programming languages, probl
 ><b>In short, I'm a Student, Developer, and Author!    </b>
 
 ---
-## Cool stuff about me:
+### Cool stuff about me:
 - 🔭 I’m currently working on a [Through the lens][project]! -  Developing a website from scratch  
 - 🌱 I’m currently learning everything that makes sense <img src = "https://github.com/Tanu-N-Prabhu/Tanu-N-Prabhu/blob/master/Img/tenor.gif" width="15" height="15">
 - 📫 Reach me at: <a href = "tanunprabhu95@gmail.com">tanunprabhu95@gmail.com</a>
@@ -45,14 +45,14 @@ My specialties include quickly learning new skills, programming languages, probl
 
 ---
 
-## I am a [Medium](https://medium.com/@tanunprabhu95) Writer 
+# Work Experience
 > [Medium](https://medium.com/) - Freelancer
 
 > June 2019 - Present • 1 year and 8 months
 
 As an author for Medium, I work explicitly with medium claimed and autonomously possessed distributions to deliver content for their perusers week by week. My writing pivots around the subjects of Python Programming, Data Science, Web Design, and Android. This includes tutorials, DIY projects, programming from scratch, and building apps as wellI have been a writer on Medium for over 2 years now. I started my journey on June 17, 2019 by writing my first article titled [Mastering the features of Google Colaboratory !!!](https://towardsdatascience.com/mastering-the-features-of-google-colaboratory-92850e75701), from then till today I have written 50 articles on various intrests such as Python, Data Science, Web Design, and Android. This includes tutorials, DIY's projects, and programming from scratch, and building apps. I write for 6 publications listed below.
 
-### Publications
+## Publications
  
 1. [Towards Data Science](https://towardsdatascience.com/) - A Medium publication sharing concepts, ideas, and codes. 
 2. [Analytics Vidhya](https://medium.com/analytics-vidhya) - Analytics Vidhya is a community of Analytics and Data Science professionals. We are building the next-gen data science ecosystem.
@@ -74,7 +74,7 @@ Stats 📊 | Articles 📚 |  Views 👀 | Reads ✏️ | Followers 🧑‍🤝�
 --- | --- | --- | --- |--- |
 Data | 54 | 789,883 | 341,545 | 1,047 | 
 
-### Latest Blog Posts
+#### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [How to Recognize a Male Green Terror Cichlid](https://medium.com/creatures/how-to-recognize-a-male-green-terror-cichlid-f49c255513f?source=rss-7edbfdf1201d------2)
 - [The Top 3 Reasons Why Your Dog Needs to Eat Vegetables](https://medium.com/creatures/3-main-reasons-your-dog-needs-to-eat-vegetables-84be5ee63295?source=rss-7edbfdf1201d------2)
@@ -84,7 +84,7 @@ Data | 54 | 789,883 | 341,545 | 1,047 |
 <!-- BLOG-POST-LIST:END -->
 ---
 
-## I am an Educated Person  
+# Education  
 
 #### University of Regina      <img align="right" src="https://github.com/Tanu-N-Prabhu/Tanu-N-Prabhu/blob/master/Img/UR_Logo_Primary_Full_Colour_RGB.jpg" width="200">
 > Degree Name: Master of Science - MS, Computer Science, Percentage 91.4% or GPA 4.0
@@ -192,7 +192,7 @@ Eight Semester
 
 ---
 
-## I am a Skilled Developer
+# Skills
 
  <table>
     <tr>
@@ -246,7 +246,7 @@ Eight Semester
 
 ---
 
-## I am a [Certified](https://github.com/Tanu-N-Prabhu/Certificates) developer
+# Certificates
 
 
 Till now as of December 12, 2020 I have achieved 22 documented certifications which are listed below. 
@@ -281,7 +281,7 @@ Number | Name |  Date | Issued By |
 
 ---
 
-## I have done 13 Projects till now
+# Projects
 
 ### 1. `TNP's <HUB>`
 > Aug 2020 – Present
@@ -372,9 +372,9 @@ Number | Name |  Date | Issued By |
 
 ---
 
-## I have been Awarded 3 Times
+# Awards
 
-### Data Science Lab Award
+## Data Science Lab Award
 > Feb 2020 - University of Regina
 
 * This award was issued for delivering a mind-blowing data science proposal presentation.
@@ -384,7 +384,7 @@ Number | Name |  Date | Issued By |
 * A Ph.D., Assistant Professor (Data Science & Machine Learning), Director, Data Science Lab at UofR
 * As an award I was given a Roots 73 - Rainproof 17.3 inch Laptop and Tablet 21L Backpack (Grey).
 
-### Brand Building Ambassador
+## Brand Building Ambassador
 >Jun 2018 - Global Academy of Technology
 
 * This is an award for Brand Building.
@@ -392,7 +392,7 @@ Number | Name |  Date | Issued By |
 * From the department of Computer Science and Engineering for my outstanding brand-building skills.
 * This award was issued during the term 2014 - 18, by the principal "Dr. N Ranapratap Reddy".
 
-### Academic Topper
+## Academic Topper
 > May 2018 - Global Academy of Technology
 
 * This is an award issued for securing the 4th position across the whole department of CS.
@@ -402,7 +402,8 @@ Number | Name |  Date | Issued By |
 * I was recognized as the academic topper with a percentage of 78.8%.
 
 ---
-## I speak 4 Languages
+
+# Spoken Languages
 
 1. **English** - Professional working proficiency
 
@@ -414,7 +415,7 @@ Number | Name |  Date | Issued By |
 
 ---
 
-## I am interm of Stats
+# Online Statistics
 
 > All of the below stats were recorded as of today (December 15, 2020) at 5:45 PM
 
@@ -448,7 +449,7 @@ PewDiePie's Subscribers | 2,818 | 498  | 1 | 8 |
 
 ---
 
-## Feel Free to Contact Me
+# Contacts
 
 |<b>Contact</b>| <b>Details</b>| 
 | :---:   | :-: | 
@@ -463,7 +464,7 @@ PewDiePie's Subscribers | 2,818 | 498  | 1 | 8 |
 
 
 
-## 😂 Here is a random joke that'll make you laugh!
+# Random Joke
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
