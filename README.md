@@ -5,8 +5,6 @@
 <br>
 -->
  
- 
- 
 
 <img src = "https://github.com/Tanu-N-Prabhu/Tanu-N-Prabhu/blob/master/Img/image.png" width="250" height="325">
 
@@ -191,6 +189,60 @@ Eight Semester
 2. System Modeling and Simulation
 3. Information and Network Security
 4. Software Testing
+
+---
+
+## I am a Skilled Developer
+
+ <table>
+    <tr>
+     <td><b>Backend Languages</b></td>
+        <td>Python 3 (Advanced), Kotlin, Java, C (Basics)<td>
+    </tr>
+    <tr>
+     <td><b>Frontend Languages</b></td>
+        <td>HTML, CSS, JavaScript<td>
+    </tr>
+    <tr>
+     <td><b>Document Markup Language</b></td>
+        <td> Markdown, XHTML, XML, LaTeX, Wiki markup<td>
+    </tr>
+    <tr>
+     <td><b>Libraries</b></td>
+        <td>Bootstrap, jQuery, React (Basics), Node.js (Basics)<td>
+    </tr> 
+    <tr>
+     <td><b>Database</b></td>
+        <td>MySQL, SQLite3 (Basics)<td>
+    </tr>
+    <tr>
+     <td><b>Project Management Tools</b></td>
+        <td>Agile, Sublime, PyCharm, Jupyter Notebooks, Atom, Brackets, Visual Studio Code, Oxygen XML, Eclipse, GitHub Git, Gist, Docker, Google Colab.<td>
+    </tr>
+    <tr>
+     <td><b>Operating System</b></td>
+        <td>Windows 10, Unix, Linux, Ubuntu, Android<td>
+    </tr>
+    <tr>
+     <td><b>Web Framework</b></td>
+        <td>Django<td>
+    </tr>
+    <tr>
+     <td><b>Data Visualization</b></td>
+        <td>Pandas, NumPy, Seaborn, Matplotlib, Pandas, Tableau<td>
+    </tr>
+    <tr>
+     <td><b>Cloud Computing (Beginner)</b></td>
+        <td>AWS, Google Cloud, Microsoft Azure, Heroku, Netlify<td>
+    </tr>
+      <tr>
+     <td><b>Tools</b></td>
+        <td>GIMP, Adobe XD, Figma, WordPress, Wix, Schoology (CMS), Sharepoint, Microsoft Office 365<td>
+    </tr>
+
+</table>
+
+
 
 ---
 
