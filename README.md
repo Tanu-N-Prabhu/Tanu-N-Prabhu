@@ -254,7 +254,7 @@ Till now as of December 12, 2020 I have achieved 22 documented certifications wh
 
 Number | Name |  Date | Issued By | 
 --- | --- | --- | --- |
-1 | [Google Ads Display Certification](https://skillshop.exceedlms.com/student/award/65342851) |21 December, 2020 | [Google](https://skillshop.exceedlms.com/student/path/18061-google-ads-display-certification) | 
+1 | [Git Tutorial for Beginners - Master Version Control](https://github.com/Tanu-N-Prabhu/Certificates/blob/main/Certificates%20PDF/Git_tutorial_for_beginners_feb%202021.pdf) |19 February, 2021 | [BitDegree](https://www.bitdegree.org/) | 
 2 | [Google Ads Display Certification](https://skillshop.exceedlms.com/student/award/65342851) |21 December, 2020 | [Google](https://skillshop.exceedlms.com/student/path/18061-google-ads-display-certification) | 
 3 | [Python (Intermediate)](https://github.com/Tanu-N-Prabhu/Certificates/blob/main/Certificates%20PDF/Python%20-%20Intermediate%20Sept%202020.png) |12 September, 2020 | [HackerRank](https://www.hackerrank.com/) | 
 4 | [JavaScript Tutorial Course](https://github.com/Tanu-N-Prabhu/Certificates/blob/main/Certificates%20PDF/JavaScript%20Tutorial%20course%20Sept%202020.pdf) |12 September, 2020 | [SoloLearn](https://www.sololearn.com/) | 
