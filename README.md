@@ -309,20 +309,21 @@ Number | Name |  Date | Issued By |
 
 ---
 
-### 2. Through The Lens
+### 2. Multiply Me
 
-> Jun 2020 – Present
+> Feb 2021
+
 
 #### Description
 
-* A responsive 3-page static portfolio/website.
-* Developed a portfolio for Timothy Wong- a photographer student for showcasing his writing skill.
-* Version control and open-sourcing code using Git and GitHub.
-* Used GitHub Pages for hosting.
-* Languages and tools: JavaScript, HTML5, CSS3, Bootstrap, jQuery, Brackets, GitHub.
-* Code and documentation: [GitHub](https://github.com/Tanu-N-Prabhu/snapshot_wascana)
+* A responsive React-based web application.
+* Application that accepts user's integer input and displays the multiplication table as output.
+* Features are only integer input, default values are 1 and 5, clear button clears everything, help toggle props.
+* Used Netlify for the deployment.
+* **Languages and tools**: JavaScript, HTML5, CSS3, Bootstrap, Visual Studio Code, GitHub, Netlify.
+* **Code and documentation**: [GitHub](https://github.com/Tanu-N-Prabhu/Multiplication-Table-App)
 
-[See the Result](https://tanu-n-prabhu.github.io/snapshot_wascana/)
+[See the Result](https://603c113bd682050195888681--multiply-me.netlify.app/)
 
 
 ---
