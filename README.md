@@ -296,16 +296,20 @@ Number | Name |  Date | Issued By |
 ### 1. `TNP's <HUB>`
 > Aug 2020 – Present
 
-#### Description
-* A responsive 4-page static portfolio/website.
-* Used jQuery to toggle between light and dark mode and animations were written using JavaScript.
-* Version control and open-sourcing code using Git and Github.
-* Used GitHub Pages for hosting the website.
-* Languages and tools: JavaScript, HTML5, CSS3, Bootstrap, jQuery, Brackets, GitHub.
-* Code and documentation: [GitHub](https://github.com/Tanu-N-Prabhu/myWebsite.io)
+<details>
+<summary>Description</summary>
 
-[See the Result](https://tanu-n-prabhu.github.io/myWebsite.io/)
+ - A responsive 4-page static portfolio/website.
+ - Used jQuery to toggle between light and dark mode and animations were written using JavaScript.
+ - Used Fancy jQuery LightBox to integrate Gallery of Photography.
+ - Version control and open-sourcing code using Git and Github.
+ - Used GitHub Pages for hosting the website.
+ - **Languages and tools**: JavaScript, HTML5, CSS3, Bootstrap, jQuery, Brackets, GitHub.
+ - **Code and documentation**: [GitHub](https://github.com/Tanu-N-Prabhu/myWebsite.io)
+ - [See project](https://tanu-n-prabhu.github.io/myWebsite.io/)
 
+
+</details>
 
 ---
 
