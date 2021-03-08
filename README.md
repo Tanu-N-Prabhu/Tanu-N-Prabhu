@@ -27,6 +27,7 @@
 # Hi there, I'm Tanu Nanda Prabhu - aka [TNP][website] 👋 
 
 
+
 <p align = "justify">I am a recent Graduate Student with a Computer Science degree (MSc) and have a potential for schooling and a persistent drive for constant improvement in the entirety of my endeavors. After coding in the scholarly world and as a hobby for years, in 2020 I finally decided to become serious about software engineering and technical content writer as a career.</p>
 
 <p align = "justify">I am a freelancing Front End developer and Technical Writer who has experience building websites, web applications, and writing technical documentation. I specialize in HTML, CSS, Bootstrap, JavaScript, and have experience working with Python and Django, absorbing as much information and practice as possible trying to consummate my specialty. I’ve quite recently begun jumping into React, Rest API, and S3 storage on AWS and still enthusiastically learning new frameworks so I can incorporate all of this for my coding network in my head. I likewise have a lot of more competent experience coding in XML and Markdown.</p>
