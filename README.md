@@ -85,11 +85,11 @@ Data | 54 | 789,883 | 341,545 | 1,047 |
 
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 Badges That Will Take Your GitHub Repository to the Next Level](https://towardsdev.com/top-5-badges-that-will-take-your-github-repository-to-the-next-level-3f2d7dcc65b1?source=rss-7edbfdf1201d------2)
 - [How to Recognize a Male Green Terror Cichlid](https://medium.com/creatures/how-to-recognize-a-male-green-terror-cichlid-f49c255513f?source=rss-7edbfdf1201d------2)
 - [The Top 3 Reasons Why Your Dog Needs to Eat Vegetables](https://medium.com/creatures/3-main-reasons-your-dog-needs-to-eat-vegetables-84be5ee63295?source=rss-7edbfdf1201d------2)
 - [Set Your Dog Free for Once!](https://medium.com/contemplate/set-your-dog-free-for-once-13faffabae5a?source=rss-7edbfdf1201d------2)
 - [How to Format your Code on Google Docs](https://medium.com/dev-genius/how-to-format-your-code-on-google-docs-86d1e538d359?source=rss-7edbfdf1201d------2)
-- [Is Fishkeeping that hard?](https://medium.com/creatures/is-fishkeeping-that-hard-b7b2874b38ca?source=rss-7edbfdf1201d------2)
 <!-- BLOG-POST-LIST:END -->
 ---
 
