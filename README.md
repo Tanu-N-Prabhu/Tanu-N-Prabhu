@@ -65,8 +65,7 @@ As an author for Medium, I work explicitly with medium claimed and autonomously 
 
 > Feb 2021 - August 2021 • 7 months
 
-At Momomedia, I was responsible for writing tech related training material, presentations, and tutorials & standardizing various technical documentations so that we can impart a uniform training for all new joiners as well our experienced staffs.
-
+At Momomedia, I was responsible for writing tech-related training material, presentations, and tutorials & standardizing various technical documentation so that we could impart uniform training for all new joiners and our experienced staff.
 ---
 
 ## Publications
