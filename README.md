@@ -57,7 +57,7 @@
 
 # Work Experience
 
-> [Excel Promotions]([https://medium.com/](https://www.excelpromotions.ca/)) - Full Time
+> [Excel Promotions](https://medium.com/](https://www.excelpromotions.ca/) - Full Time
 
 > Sep 2020  - Present • 2 yrs 10 mos
 
