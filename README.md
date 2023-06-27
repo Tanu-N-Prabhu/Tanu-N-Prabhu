@@ -57,7 +57,7 @@
 
 # Work Experience
 
-> [Excel Promotions](https://medium.com/](https://www.excelpromotions.ca/) - Full Time
+> [Excel Promotions](https://www.excelpromotions.ca/) - Assistant Manager -Full Time
 
 > Sep 2020  - Present • 2 yrs 10 mos
 
@@ -65,7 +65,7 @@ At Excel I perform duties such as establishing distribution networks, assigning 
 products and services at retail locations, and day-to-day management of the sales team.
 
 
-> [Medium](https://medium.com/) - Freelancer
+> [Medium](https://medium.com/) - Freelance Writer
 
 > June 2019 - Present • 4 yrs 1 mon
 
