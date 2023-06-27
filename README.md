@@ -48,7 +48,7 @@
 
 ---
 ### Cool stuff about me:
-- 🔭 I’m currently working on a finalizing a EDA Report - [Performing Data Alaysis on Regina Gas Stations](https://github.com/Tanu-N-Prabhu/Regina-Gas-Stations)  
+- 🔭 I’m currently working on finalizing an EDA Report - [Performing Data Alaysis on Regina Gas Stations](https://github.com/Tanu-N-Prabhu/Regina-Gas-Stations)  
 - 🌱 I’m currently learning everything that makes sense <img src = "https://github.com/Tanu-N-Prabhu/Tanu-N-Prabhu/blob/master/Img/tenor.gif" width="15" height="15">
 - 📫 Reach me at: <a href = "tanunprabhu95@gmail.com">tanunprabhu95@gmail.com</a>
 - ⚡ Fun fact: I like to play <a href = "https://www.miniclip.com/games/8-ball-pool-multiplayer/en/">8-ball pool</a> and <a href = "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F0%2F09%2FOsphronemus_Gourami_%2528better%2529.png%2F1200px-Osphronemus_Gourami_%2528better%2529.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGiant_gourami&tbnid=m-w4WYaL3_37wM&vet=12ahUKEwiHr4PVhqbrAhWRgp4KHa7gAYwQMygAegUIARDPAQ..i&docid=c1q8hb42OTNJ2M&w=1200&h=878&q=giant%20gourami&ved=2ahUKEwiHr4PVhqbrAhWRgp4KHa7gAYwQMygAegUIARDPAQ">pet fishes</a> 
@@ -56,11 +56,20 @@
 ---
 
 # Work Experience
+
+> [Excel Promotions]([https://medium.com/](https://www.excelpromotions.ca/)) - Full Time
+
+> Sep 2020  - Present • 2 yrs 10 mos
+
+At Excel I perform duties such as establishing distribution networks, assigning workers’ schedules and duties, payroll for employees, inventory management, hiring and training of new associates, resolving issues that may arise as well as customer complaints, event coordinating, event management, sales of all
+products and services at retail locations, and day-to-day management of the sales team.
+
+
 > [Medium](https://medium.com/) - Freelancer
 
-> June 2019 - Present • 3 yrs 2 mos
+> June 2019 - Present • 4 yrs 1 mon
 
-As an author for Medium, I work explicitly with medium claimed and autonomously possessed distributions to deliver content for their perusers week by week. My writing pivots around the subjects of Python Programming, Data Science, Web Design, and Android. This includes tutorials, DIY projects, programming from scratch, and building apps as wellI have been a writer on Medium for over 2 years now. I started my journey on June 17, 2019 by writing my first article titled [Mastering the features of Google Colaboratory !!!](https://towardsdatascience.com/mastering-the-features-of-google-colaboratory-92850e75701), from then till today I have written 50 articles on various intrests such as Python, Data Science, Web Design, and Android. This includes tutorials, DIY's projects, and programming from scratch, and building apps. I write for 6 publications listed below.
+As an author for Medium, I work explicitly with medium-claimed and autonomously possessed distributions to deliver content for their perusers week by week. My writing pivots around the subjects of Python Programming, Data Science, Web Design, and Android. This includes tutorials, DIY projects, programming from scratch, and building apps as well I have been a writer on Medium for over 2 years now. I started my journey on June 17, 2019, by writing my first article titled [Mastering the features of Google Colaboratory !!!](https://towardsdatascience.com/mastering-the-features-of-google-colaboratory-92850e75701), from then till today I have written 50 articles on various interests such as Python, Data Science, Web Design, and Android. This includes tutorials, DIY projects, programming from scratch, and building apps. I write for 6 publications listed below.
 
 > [Momomedia](https://momomedia.io/) - Technical Writer
 
@@ -74,7 +83,7 @@ At Momomedia, I was responsible for writing tech-related training material, pres
  
 1. [Towards Data Science](https://towardsdatascience.com/) - A Medium publication sharing concepts, ideas, and codes. 
 2. [Analytics Vidhya](https://medium.com/analytics-vidhya) - Analytics Vidhya is a community of Analytics and Data Science professionals. We are building the next-gen data science ecosystem.
-3. [Kt.Academy](https://blog.kotlin-academy.com/) - Blog with mission to simplify Kotlin learning.
+3. [Kt.Academy](https://blog.kotlin-academy.com/) - Blog with a mission to simplify Kotlin learning.
 4. [The Startup](https://medium.com/swlh) - Medium's largest active publication, followed by +738K people.
 5. [UX Planet](https://uxplanet.org/) - UX Planet is a one-stop resource for everything related to user experience.
 6. [Level Up Coding](https://levelup.gitconnected.com/) - Coding tutorials and news. The developer homepage gitconnected.com.
