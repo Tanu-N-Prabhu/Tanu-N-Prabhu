@@ -27,21 +27,22 @@
 
 
 
-<p align = "justify">I am a recent Graduate Student with a Computer Science degree (MSc) and have a potential for schooling and a persistent drive for constant improvement in the entirety of my endeavors. After coding in the scholarly world and as a hobby for years, in 2020 I finally decided to become serious about software engineering and technical content writer as a career.</p>
+<p align = "justify">I am a recent Graduate Student with a Computer Science Degree (MSc) and have a potential for schooling and a persistent drive for constant improvement in the entirety of my endeavors. After coding in the scholarly world and as a hobby for years, in 2020 I finally decided to become serious about software engineering and technical content writing as a career. After working in the programming world for a few months. I came to the conclusion that I need to try something new. Finally, I decided to follow the path of becoming an entrepreneur. I gave up the mentality of becoming a clock looker and became a goal/clock chaser.</p>
 
-<p align = "justify">I am a freelancing Front End developer and Technical Writer who has experience building websites, web applications, and writing technical documentation. I specialize in HTML, CSS, Bootstrap, JavaScript, and have experience working with Python and Django, absorbing as much information and practice as possible trying to consummate my specialty. I’ve quite recently begun jumping into React, Rest API, and S3 storage on AWS and still enthusiastically learning new frameworks so I can incorporate all of this for my coding network in my head. I likewise have a lot of more competent experience coding in XML and Markdown.</p>
+<p align = "justify">Also, I am a freelancing Front End developer and Technical Writer who has experience building websites, and web applications, and writing technical documentation. I specialize in HTML, CSS, Bootstrap, and Javascript, and have experience working with Python and Django, absorbing as much information and practice as possible trying to consummate my specialty. I’ve quite recently begun jumping into React, Rest API, and S3 storage on AWS and still enthusiastically learning new frameworks so I can incorporate all of this for my coding network in my head. I likewise have a lot of more competent experience coding in XML and Markdown.</p>
 
 <p align = "justify">Besides programming, I have expansive interests including teaching, proofreading articles/research work, and most importantly altering or writing for both technical and non-technical audiences.</p>
 
-My specialties include quickly learning new skills, programming languages, problem-solving, web development, MVC, Django’s MVT, methods of organizing code. So far I have HTML, CSS, Bootstrap, JavaScript, XML, Markdown, JQuery, Git/GitHub, Python under my belt. Take a look at my [work](https://github.com/Tanu-N-Prabhu/Tanu-N-Prabhu) or get in touch! 
+
 
 
 ## Three most important points of my life  <img align="right" src="Img/Snapchat.jpg" width="200" height="200">
-* Master of Science in Computer Science at the <a href="https://www.uregina.ca/">University of Regina</a>
+* Master of Science in Computer Science at the <a href="https://www.uregina.ca/">University of Regina</a> with 91.4% GPA.
  
 * Writer at <a href = "https://medium.com/@tanunprabhu95">Medium</a>
 
 * Freelance Web Developer <a href = "https://tanu-n-prabhu.github.io/myWebsite.io/">`TNP's <Hub>`</a>
+
  
 ><b>In short, I'm a Student, Developer, and Author!    </b>
 
