@@ -36,8 +36,10 @@
 
 
 
-## Three most important points of my life  <img align="right" src="Img/Snapchat.jpg" width="200" height="200">
+## Four most important points of my life  <img align="right" src="Img/Snapchat.jpg" width="200" height="200">
 * Master of Science in Computer Science at the <a href="https://www.uregina.ca/">University of Regina</a> with 91.4% GPA.
+
+* Assistant Manager at <a href = "https://www.excelpromotions.ca/">Excel Promotions</a>
  
 * Writer at <a href = "https://medium.com/@tanunprabhu95">Medium</a>
 
@@ -95,7 +97,7 @@ I share my contemplations on Computer Science and Programming on my Medium and i
 
 ### My Stats
 
-Below are my total stats till date that were recorded on Dec 12, 2020 with the help of an [medium stats chrome extension](https://chrome.google.com/webstore/detail/better-medium-stats/pdehepohihkkmeclfnlnipieffkomajc?hl=en)
+Below are my total stats to date that were recorded on Dec 12, 2020, with the help of an [medium stats chrome extension](https://chrome.google.com/webstore/detail/better-medium-stats/pdehepohihkkmeclfnlnipieffkomajc?hl=en)
 
 Stats 📊 | Articles 📚 |  Views 👀 | Reads ✏️ | Followers 🧑‍🤝‍🧑 | 
 --- | --- | --- | --- |--- |
