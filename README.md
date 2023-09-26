@@ -32,6 +32,13 @@
 
 <p align = "justify">Besides programming, I have expansive interests including teaching, proofreading articles/research work, and most importantly altering or writing for both technical and non-technical audiences.</p>
 
+| Bio  | Details |
+| :---------------- | :------------- |
+| Born  | Tanu Nanda Prabhu, May 31, 1996 (age 27) Karnataka, Bengaluru, I.N.|
+| Education  | M.Sc in Computer Science, [University of Regina](https://www.uregina.ca/)  |
+| Occupation  | Entrepreneur, Programmer, Writer |
+| Parents | R. Nanda Kumar (Dad), B. Jyothi (Mom) |
+| Website |	[TNP's HUB](https://tanu-n-prabhu.github.io/portfolio.io/)|
 
 
 
