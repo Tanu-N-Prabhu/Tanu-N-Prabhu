@@ -26,11 +26,18 @@
 
 
 
-<p align = "justify">I am a recent Graduate Student with a Computer Science Degree (MSc) and have a potential for schooling and a persistent drive for constant improvement in the entirety of my endeavors. After coding in the scholarly world and as a hobby for years, in 2020 I finally decided to become serious about software engineering and technical content writing as a career. After working in the programming world for a few months. I came to the conclusion that I need to try something new. Finally, I decided to follow the path of becoming an entrepreneur. I gave up the mentality of becoming a clock looker and became a goal/clock chaser.</p>
+<p align = "justify">As a passionate and driven Computer Science graduate (MSc) with a relentless pursuit of excellence, I've dedicated my career to becoming a proficient software engineer and technical content creator. My journey in coding began in academia and as a hobby, but in 2020, I decided to take it to the next level by committing to software engineering and technical writing as a professional path.</p>
 
-<p align = "justify">Also, I am a freelancing Front End developer and Technical Writer who has experience building websites, and web applications, and writing technical documentation. I specialize in HTML, CSS, Bootstrap, and Javascript, and have experience working with Python and Django, absorbing as much information and practice as possible trying to consummate my specialty. I’ve quite recently begun jumping into React, Rest API, and S3 storage on AWS and still enthusiastically learning new frameworks so I can incorporate all of this for my coding network in my head. I likewise have a lot of more competent experience coding in XML and Markdown.</p>
+<p align = "justify">With experience in building websites and web applications, I specialize in front-end development using HTML, CSS, Bootstrap, and JavaScript. My skill set also includes Python and Django, allowing me to work across both front-end and back-end development. Recently, I’ve been diving into React, REST APIs, and AWS S3 storage, continuously expanding my technical expertise to keep up with the ever-evolving tech landscape.</p>
 
-<p align = "justify">Besides programming, I have expansive interests including teaching, proofreading articles/research work, and most importantly altering or writing for both technical and non-technical audiences.</p>
+<p align = "justify">In addition to my technical skills, I have a strong passion for technical writing. I excel in creating clear, concise, and informative documentation for both technical and non-technical audiences. Whether it's writing tutorials, user manuals, or proofreading research articles, I aim to make complex information accessible and engaging.</p>
+
+<p align = "justify">My entrepreneurial spirit drives me to explore new opportunities and innovate. I'm committed to lifelong learning and constantly seeking ways to enhance my skills and knowledge. As a freelancer, I've worked with diverse clients, delivering high-quality projects and building a reputation for reliability and excellence.</p>
+
+<p align = "justify">Beyond programming and writing, I have a keen interest in teaching and mentoring. I enjoy helping others learn and grow, whether it's through formal education or informal guidance. I believe in the power of community and actively participate in forums and groups where I can share my knowledge and learn from others.</p>
+
+
+<p align = "justify">If you're looking for a dedicated front-end developer, technical writer, or someone to bring fresh ideas and relentless drive to your team, let's connect. I'm excited about new challenges and opportunities to collaborate and create impactful solutions.</p>
 
 | Bio  | Details |
 | :---------------- | :------------- |
