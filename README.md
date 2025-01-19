@@ -40,7 +40,7 @@
 
 | Bio  | Details |
 | :---------------- | :------------- |
-| Born  | Tanu Nanda Prabhu, May 31, 1996 (age 27) Karnataka, Bengaluru, I.N.|
+| Born  | Tanu Nanda Prabhu, June 1, 1996 (age 28) Karnataka, Bengaluru, I.N.|
 | Education  | M.Sc in Computer Science, [University of Regina](https://www.uregina.ca/)  |
 | Occupation  | Entrepreneur, Programmer, Writer |
 | Parents | R. Nanda Kumar (Dad), B. Jyothi (Mom) |
