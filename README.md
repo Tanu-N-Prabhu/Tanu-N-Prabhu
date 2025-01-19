@@ -26,18 +26,17 @@
 
 
 
-<p align = "justify">As a passionate and driven Computer Science graduate (MSc) with a relentless pursuit of excellence, I've dedicated my career to becoming a proficient software engineer and technical content creator. My journey in coding began in academia and as a hobby, but in 2020, I decided to take it to the next level by committing to software engineering and technical writing as a professional path.</p>
+<p align = "justify">As a passionate and driven <b>Computer Science graduate (MSc)</b> 🎓, I’ve dedicated my career to becoming a proficient <b>software engineer</b> 💻 and <b>technical content creator</b> ✍️. My journey in coding began in academia and as a hobby, but in 2020, I committed to software engineering and technical writing as my professional path. I also expanded my entrepreneurial journey by exploring <b>sales and marketing opportunities</b>, gaining valuable experience in business development and client engagement.</p>
 
-<p align = "justify">With experience in building websites and web applications, I specialize in front-end development using HTML, CSS, Bootstrap, and JavaScript. My skill set also includes Python and Django, allowing me to work across both front-end and back-end development. Recently, I’ve been diving into React, REST APIs, and AWS S3 storage, continuously expanding my technical expertise to keep up with the ever-evolving tech landscape.</p>
+<p align = "justify">With experience building websites and web applications, I specialize in front-end development using HTML, CSS, Bootstrap, and JavaScript. My skill set also includes Python and Django, allowing me to work across both front-end and back-end development. Recently, I’ve been diving into React, REST APIs, and AWS S3 storage, continuously expanding my technical expertise to keep up with the ever-evolving tech landscape.</p>
 
-<p align = "justify">In addition to my technical skills, I have a strong passion for technical writing. I excel in creating clear, concise, and informative documentation for both technical and non-technical audiences. Whether it's writing tutorials, user manuals, or proofreading research articles, I aim to make complex information accessible and engaging.</p>
-
-<p align = "justify">My entrepreneurial spirit drives me to explore new opportunities and innovate. I'm committed to lifelong learning and constantly seeking ways to enhance my skills and knowledge. As a freelancer, I've worked with diverse clients, delivering high-quality projects and building a reputation for reliability and excellence.</p>
-
-<p align = "justify">Beyond programming and writing, I have a keen interest in teaching and mentoring. I enjoy helping others learn and grow, whether it's through formal education or informal guidance. I believe in the power of community and actively participate in forums and groups where I can share my knowledge and learn from others.</p>
-
-
-<p align = "justify">If you're looking for a dedicated front-end developer, technical writer, or someone to bring fresh ideas and relentless drive to your team, let's connect. I'm excited about new challenges and opportunities to collaborate and create impactful solutions.</p>
+* **Sales & Marketing Experience** 💼: Worked as an Assistant Manager in sales and marketing for 4.5 years, enhancing my skills in leadership and strategy.
+* **Front-End Development** 🌐: Specializing in HTML, CSS, Bootstrap, and JavaScript, I have extensive experience building websites and web applications.
+* **Full-Stack Expertise** 🔄: Proficient in Python and Django, enabling seamless work across both front-end and back-end development.
+* **Expanding Skills** 🚀: Currently exploring React, REST APIs, and AWS S3 storage, continuously enhancing my technical knowledge to stay updated with industry trends.
+* **Technical Writing** 📝: Passionate about creating clear, concise, and engaging documentation for both technical and non-technical audiences. I write articles daily on Medium, covering a range of topics in technology and programming.
+* **Entrepreneurial Spirit** 💡: Always seeking new opportunities and innovation, committed to lifelong learning and delivering high-quality projects as a freelancer.
+* **Teaching & Mentoring** 👩‍🏫: Enjoy helping others learn and grow, whether through formal education or informal guidance. Actively participate in community forums and groups to share knowledge and gain insights.
 
 | Bio  | Details |
 | :---------------- | :------------- |
