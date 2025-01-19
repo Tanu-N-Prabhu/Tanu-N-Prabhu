@@ -1,7 +1,7 @@
 
 <p align="center">
 <!--
-<img src = "https://github.com/Tanu-N-Prabhu/Tanu-N-Prabhu/blob/master/7QNKs62U.gif" width="550">
+<img src = "https://github.com/Tanu-N-Prabhu/Tanu-N-Prabhu/blob/6a982473d0f07e730915177d7443cf93c476913c/Img/IMG_20201218_192856_397.jpg" width="550">
 <br>
 <br>
 -->
