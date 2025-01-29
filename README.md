@@ -30,13 +30,13 @@
 
 <p align = "justify">With experience building websites and web applications, I specialize in front-end development using HTML, CSS, Bootstrap, and JavaScript. My skill set also includes Python and Django, allowing me to work across both front-end and back-end development. Recently, I’ve been diving into React, REST APIs, and AWS S3 storage, continuously expanding my technical expertise to keep up with the ever-evolving tech landscape.</p>
 
-* <p align = "justify"><b>Sales & Marketing Experience </b>💼: Worked as an Assistant Manager in sales and marketing for 4.5 years, enhancing my skills in leadership and strategy.</p>
-* <p align = "justify"><b>Front-End Development</b> 🌐: Specializing in HTML, CSS, Bootstrap, and JavaScript, I have extensive experience building websites and web applications.</p>
-* <p align = "justify"><b>Full-Stack Expertise</b> 🔄: Proficient in Python and Django, enabling seamless work across both front-end and back-end development.</p>
-* <p align = "justify"><b>Expanding Skills</b> 🚀: Currently exploring React, REST APIs, and AWS S3 storage, continuously enhancing my technical knowledge to stay updated with industry trends.</p>
-* <p align = "justify"><b>Technical Writing</b> 📝: Passionate about creating clear, concise, and engaging documentation for both technical and non-technical audiences. I write articles daily on Medium, covering a range of topics in technology and programming.</p>
-* <p align = "justify"><b>Entrepreneurial Spirit</b> 💡: Always seeking new opportunities and innovation, committed to lifelong learning and delivering high-quality projects as a freelancer.</p>
-* <p align = "justify"><b>Teaching & Mentoring</b> 👩‍🏫: Enjoy helping others learn and grow, whether through formal education or informal guidance. Actively participate in community forums and groups to share knowledge and gain insights.</p>
+* 💼 <p align = "justify"><b>Sales & Marketing Experience </b>: Worked as an Assistant Manager in sales and marketing for 4.5 years, enhancing my skills in leadership and strategy.</p>
+* 🌐 <p align = "justify"><b>Front-End Development</b>: Specializing in HTML, CSS, Bootstrap, and JavaScript, I have extensive experience building websites and web applications.</p>
+* 🔄 <p align = "justify"><b>Full-Stack Expertise</b>: Proficient in Python and Django, enabling seamless work across both front-end and back-end development.</p>
+* 🚀 <p align = "justify"><b>Expanding Skills</b>: Currently exploring React, REST APIs, and AWS S3 storage, continuously enhancing my technical knowledge to stay updated with industry trends.</p>
+* 📝<p align = "justify"><b>Technical Writing</b>: Passionate about creating clear, concise, and engaging documentation for both technical and non-technical audiences. I write articles daily on Medium, covering a range of topics in technology and programming.</p>
+* 💡 <p align = "justify"><b>Entrepreneurial Spirit</b>: Always seeking new opportunities and innovation, committed to lifelong learning and delivering high-quality projects as a freelancer.</p>
+* 👩‍🏫 <p align = "justify"><b>Teaching & Mentoring</b>: Enjoy helping others learn and grow, whether through formal education or informal guidance. Actively participate in community forums and groups to share knowledge and gain insights.</p>
 
 | Bio  | Details |
 | :---------------- | :------------- |
