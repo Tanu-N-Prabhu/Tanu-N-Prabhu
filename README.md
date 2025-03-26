@@ -50,14 +50,10 @@
 
 ## Four most important points of my life  <img align="right" src="Img/Snapchat.jpg" width="200" height="200">
 * Master of Science in Computer Science at the <a href="https://www.uregina.ca/">University of Regina</a> with 91.4% GPA.
-
 * Assistant Manager at <a href = "https://www.excelpromotions.ca/">Excel Promotions</a>
- 
 * Writer at <a href = "https://medium.com/@tanunprabhu95">Medium</a>
-
 * Freelance Web Developer <a href = "https://tanu-n-prabhu.github.io/myWebsite.io/">`TNP's <Hub>`</a>
 
- 
 ><b>In short, I'm a Student, Developer, and Author!    </b>
 
 ---
