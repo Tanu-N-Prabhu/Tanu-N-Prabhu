@@ -26,7 +26,7 @@
 
 
 
-<p align = "justify">As a passionate and driven <b>Computer Science graduate (MSc)</b> 🎓, I’ve dedicated my career to becoming a proficient <b>software engineer</b> 💻 and <b>technical content creator</b> ✍️. My journey in coding began in academia and as a hobby, but in 2020, I committed to software engineering and technical writing as my professional path. I also expanded my entrepreneurial journey by exploring <b>sales and marketing opportunities</b>, gaining valuable experience in business development and client engagement.</p>
+<p align = "justify">As a passionate and driven <b>Computer Science graduate (MSc)</b> 🎓, I’ve dedicated my career to becoming a proficient <b>software engineer</b> 💻 and <b>technical content creator</b>. My journey in coding began in academia and as a hobby, but in 2020, I committed to software engineering and technical writing as my professional path. I also expanded my entrepreneurial journey by exploring <b>sales and marketing opportunities</b>, gaining valuable experience in business development and client engagement.</p>
 
 <p align = "justify">With experience building websites and web applications, I specialize in front-end development using HTML, CSS, Bootstrap, and JavaScript. My skill set also includes Python and Django, allowing me to work across both front-end and back-end development. Recently, I’ve been diving into React, REST APIs, and AWS S3 storage, continuously expanding my technical expertise to keep up with the ever-evolving tech landscape.</p>
 
