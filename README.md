@@ -2,6 +2,12 @@
 <p align="center">
 <!--
 <img src = "https://github.com/Tanu-N-Prabhu/Tanu-N-Prabhu/blob/master/7QNKs62U.gif" width="550">
+
+| ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
+|:--:| 
+| Image Credits [Wallpaper Flare](https://www.wallpaperflare.com/programming-is-an-art-text-code-python-computer-python-programming-wallpaper-srfia) |
+
+
 <br>
 <br>
 -->
