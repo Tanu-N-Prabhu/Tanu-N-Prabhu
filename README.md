@@ -2,12 +2,6 @@
 <p align="center">
 <!--
 <img src = "https://github.com/Tanu-N-Prabhu/Tanu-N-Prabhu/blob/master/7QNKs62U.gif" width="550">
-
-| ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
-|:--:| 
-| Image Credits [Wallpaper Flare](https://www.wallpaperflare.com/programming-is-an-art-text-code-python-computer-python-programming-wallpaper-srfia) |
-
-
 <br>
 <br>
 -->
@@ -24,25 +18,23 @@
 
 
 
-<p align="right"><img src=https://komarev.com/ghpvc/?username=Tanu-N-Prabhu /> </p>
 
+<p align="right"><img src=https://komarev.com/ghpvc/?username=Tanu-N-Prabhu /> </p>
 
 
 # Hi there, I'm Tanu Nanda Prabhu - aka [TNP][website] 👋 
 
+I am a dedicated technical writer and educator with over five years of experience spanning technology, education, and business. My work is driven by a simple purpose: to communicate complex ideas clearly and effectively to a wide range of audiences.
+
+I began my career in the business world, working in sales and marketing, where I developed strong communication skills and an understanding of what makes people take action. This foundation taught me how to connect ideas with real-world outcomes and built the confidence I now bring to every writing and teaching role.
+
+My transition into technical writing was a natural evolution of my strengths. I have since written detailed documentation, product guides, software manuals, and educational content that helps developers, users, and students understand and apply technical concepts with ease. I take pride in creating content that is both technically accurate and easy to follow.
+
+In addition to writing, I work closely with students as a mentor and educator. I help them strengthen their academic skills and prepare for interviews, internships, and careers in tech. Whether teaching programming, reviewing writing, or guiding a student through problem solving, I bring patience, clarity, and structure to the learning process.
+
+At the core of my work is a passion for making knowledge accessible. I combine the precision of an engineer, the perspective of a business communicator, and the empathy of a teacher to deliver content that informs, supports, and inspires.
 
 
-<p align = "justify">As a passionate and driven <b>Computer Science graduate (MSc)</b> 🎓, I’ve dedicated my career to becoming a proficient <b>software engineer</b> 💻 and <b>technical content creator</b>. My journey in coding began in academia and as a hobby, but in 2020, I committed to software engineering and technical writing as my professional path. I also expanded my entrepreneurial journey by exploring <b>sales and marketing opportunities</b>, gaining valuable experience in business development and client engagement.</p>
-
-<p align = "justify">With experience building websites and web applications, I specialize in front-end development using HTML, CSS, Bootstrap, and JavaScript. My skill set also includes Python and Django, allowing me to work across both front-end and back-end development. Recently, I’ve been diving into React, REST APIs, and AWS S3 storage, continuously expanding my technical expertise to keep up with the ever-evolving tech landscape.</p>
-
-* <p align = "justify">💼 <b>Sales & Marketing Experience </b>: Worked as an Assistant Manager in sales and marketing for 4.5 years, enhancing my skills in leadership and strategy.</p>
-* <p align = "justify">🌐 <b>Front-End Development</b>: Specializing in HTML, CSS, Bootstrap, and JavaScript, I have extensive experience building websites and web applications.</p>
-*  <p align = "justify">🔄<b>Full-Stack Expertise</b>: Proficient in Python and Django, enabling seamless work across both front-end and back-end development.</p>
-*  <p align = "justify">🚀<b>Expanding Skills</b>: Currently exploring React, REST APIs, and AWS S3 storage, continuously enhancing my technical knowledge to stay updated with industry trends.</p>
-* <p align = "justify">📝<b>Technical Writing</b>: Passionate about creating clear, concise, and engaging documentation for both technical and non-technical audiences. I write articles daily on Medium, covering a range of topics in technology and programming.</p>
-*  <p align = "justify">💡<b>Entrepreneurial Spirit</b>: Always seeking new opportunities and innovation, committed to lifelong learning and delivering high-quality projects as a freelancer.</p>
-*  <p align = "justify">👩‍🏫<b>Teaching & Mentoring</b>: Enjoy helping others learn and grow, whether through formal education or informal guidance. Actively participate in community forums and groups to share knowledge and gain insights.</p>
 
 | Bio  | Details |
 | :---------------- | :------------- |
