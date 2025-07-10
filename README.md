@@ -472,16 +472,18 @@ Data | 710 | 9 | 287 | 230 | 5.62MB| 507 |
 
 #### Kaggle Datasets
 
+> The above stats as of July 9, 2025 @10:37 PM
+
+
 Name   |  View | Downloads |  Notebooks | Upvotes |
 --- | --- | --- |--- |--- |
-Population by Country - 2020 | 21,637 | 6,319 | 168 | 73 |
-Coronavirus 2019-2020 latest dataset | 483  | 39 | 1 | 2 |
-University of Regina Employees Salary List | 1,423  | 111  | 2 | 2 |
-List of Countries by number of Internet Users | 13,792  | 1,019  | 4 | 21 |
-Linear Regression Data-set | 21,637 | 6,319 | 10 | 20 | 
-Hyper Cars 2019 | 4,962  | 479  | 2 | 13 |
-PewDiePie's Subscribers | 2,818 | 498  | 1 | 8 |
-
+Population by Country - 2020 | 121,637 | 26,319 | 168 | 73 |
+Coronavirus 2019-2020 latest dataset | 2598  | 98 | 1 | 2 |
+University of Regina Employees Salary List | 8,423  | 298  | 2 | 2 |
+List of Countries by number of Internet Users | 30,792  | 4,319  | 4 | 21 |
+Linear Regression Data-set | 153,637 | 19,319 | 10 | 20 | 
+Hyper Cars 2019 | 17,962  | 1823   | 2 | 13 |
+PewDiePie's Subscribers | 7,818 | 898  | 1 | 8 |
 
 ![Tanu Nanda Prabhu's github stats](https://github-readme-stats.vercel.app/api?username=Tanu-N-Prabhu&show_icons=true)
 
