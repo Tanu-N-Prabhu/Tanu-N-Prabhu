@@ -521,7 +521,7 @@ PewDiePie's Subscribers | 7,818 | 898  | 1 | 8 |
 
 
 
-[website]: https://tanu-n-prabhu.github.io/myWebsite.io/
+[website]: https://tanu-n-prabhu.github.io/portfolio.io/
 [project]: https://tanu-n-prabhu.github.io/snapshot_wascana/index.html
 
 ---
